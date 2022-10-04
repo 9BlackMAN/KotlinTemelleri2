@@ -52,6 +52,6 @@ class MainActivity : AppCompatActivity() {
         println("bu bir testtir")
     }
     fun sample2(a:String){
-        
+
     }
 }
